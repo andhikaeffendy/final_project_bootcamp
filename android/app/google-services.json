@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837507298307",
+    "project_id": "latihan-soal-e2fa9",
+    "storage_bucket": "latihan-soal-e2fa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837507298307:android:3010cbfe0842d2066bca36",
+        "android_client_info": {
+          "package_name": "com.example.final_project_bootcamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837507298307-vivngoa8sq7gg43nu7o8dlkchspisqn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQrUXz01W4d4Jz-FkFqYToBvjD6_byx7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837507298307-vivngoa8sq7gg43nu7o8dlkchspisqn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
